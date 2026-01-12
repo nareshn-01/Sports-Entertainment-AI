@@ -46,7 +46,7 @@ It uses **computer vision**, **data analytics**, and **predictive modeling** to 
 ### Steps
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/sports-entertainment-ai.git
+git clone https://github.com/nareshn-01/sports-entertainment-ai.git
 
 # Navigate to project directory
 cd sports-entertainment-ai
